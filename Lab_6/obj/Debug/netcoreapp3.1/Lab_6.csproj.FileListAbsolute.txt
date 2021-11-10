@@ -1,0 +1,14 @@
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.exe
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.deps.json
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.json
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.dev.json
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.dll
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.pdb
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.AssemblyReference.cache
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfoInputs.cache
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfo.cs
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.CoreCompileInputs.cache
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.dll
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.pdb
+D:\sem 3\oo Iot1030\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.genruntimeconfig.cache
